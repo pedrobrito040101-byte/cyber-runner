@@ -1,32 +1,22 @@
-Cyber Runner 🎮⚡
+# Cyber Runner - Custom Edition 🦖⚡
 
-Cyber Runner é um jogo inspirado no clássico dinossauro offline do Google, recriado com uma temática futurista cyberpunk e visual moderno. O objetivo do jogador é correr continuamente desviando de obstáculos e alcançando a maior pontuação possível enquanto a velocidade aumenta progressivamente.
+Um jogo de corrida infinita baseado no clássico "Dino Chrome", totalmente customizado e desenvolvido para demonstrar lógica de programação voltada a jogos e performance.
 
-O projeto foi desenvolvido com foco em lógica de jogos, animações e interatividade, trazendo uma nova identidade visual para um dos jogos mais conhecidos da internet.
+### 🔗 [Jogue o Cyber Runner online aqui](https://pedrobrito040101-byte.github.io/cyber-runner/)
 
-🚀 Funcionalidades
-Gameplay inspirado no Dino Chrome Offline
-Sistema de pontuação progressiva
-Obstáculos dinâmicos
-Aumento gradual de dificuldade
-Visual cyberpunk futurista
-Animações fluidas
-Interface responsiva
-Sistema de colisão otimizado
-🧠 Objetivo do Projeto
+---
 
-O Cyber Runner foi criado para praticar conceitos de desenvolvimento de jogos 2D, manipulação de eventos, lógica de colisão e criação de interfaces interativas utilizando tecnologias web modernas.
+### 🚀 Tecnologias e Conceitos Aplicados
+* **JavaScript Avançado:** Manipulação intensiva do DOM para controle de movimentação.
+* **Game Loop:** Implementação de lógica de animação fluida e controle de frames.
+* **Cálculo de Colisão:** Algoritmo para detectar o contato entre o player e os obstáculos em tempo real.
+* **CSS Animations:** Criação de cenários dinâmicos e efeitos visuais leves.
 
-🛠️ Tecnologias Utilizadas
-JavaScript
-HTML5
-CSS3
-Canvas API
-🎯 Diferenciais
-Releitura moderna do jogo offline do Google
-Design neon/cyberpunk personalizado
-Estrutura leve e otimizada
-Experiência arcade rápida e dinâmica
-👨‍💻 Desenvolvido por
+### 🛡️ O Diferencial do Projeto
+Este projeto demonstra meu domínio sobre **Event Listeners** e a capacidade de criar interfaces que exigem resposta rápida do sistema. No contexto de um desenvolvedor com background em **Cybersecurity**, a precisão na detecção de colisão e a resposta a eventos são fundamentais para entender o fluxo de execução e prevenir comportamentos inesperados em aplicações.
 
-Pedro Henrique de Brito
+### ✅ Funcionalidades
+* Sistema de pontuação crescente.
+* Dificuldade progressiva.
+* Reset imediato após o "Game Over".
+* Interface responsiva adaptada para teclados.
